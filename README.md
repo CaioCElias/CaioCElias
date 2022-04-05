@@ -1,11 +1,11 @@
 <h1>Olá, meu nome é Caio Elias!</h1>
 
-<h2>
+<h3>
   <ul>
     <li>&#x1F4BB; Hoje trabalho com o básico de desenvolvimento web</li>
     <li>&#x1F4DD; Estou aprendendo desenvolvimento front-end</li>
   </ul>
-</h2>
+</h3>
 
 <div align="left">
   <a href="https://github.com/CaioCElias">
