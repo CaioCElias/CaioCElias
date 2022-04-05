@@ -19,6 +19,10 @@
 <div> 
   <a href = "mailto:caiocesarelias1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+  
+<hr />
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **CaioCElias/CaioCElias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
