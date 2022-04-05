@@ -4,8 +4,9 @@
 - 📝 Estou aprendendo desenvolvimento front-end
 
 
-<a href="https://github.com/CaioCElias/github-readme-stats">
+
 [![Caio Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioCElias&count_private=true&show_icons=true&&theme=dracula&include_all_commits=true)](https://github.com/CaioCElias/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCElias&layout=compact)](https://github.com/CaioCElias/github-readme-stats)
 
 <div>
