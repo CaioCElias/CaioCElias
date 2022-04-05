@@ -3,6 +3,8 @@
 - 💻 Hoje trabalho com o básico de desenvolvimento web
 - 📝 Estou aprendendo desenvolvimento front-end
 
+[![Caio Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioCElias&count_private=true&show_icons=true&&theme=dracula&include_all_commits=true)](https://github.com/CaioCElias/github-readme-stats)
+
 <div>
   <a href="https://github.com/CaioCElias">
   <img height="216em" src="https://github-readme-stats.vercel.app/api?username=CaioCElias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
@@ -21,8 +23,6 @@
 </div>
   
 <hr />
-  
-[![Caio Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioCElias&count_private=true&show_icons=true&&theme=dracula&include_all_commits=true)](https://github.com/CaioCElias/github-readme-stats)
 
 <!--
 **CaioCElias/CaioCElias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
