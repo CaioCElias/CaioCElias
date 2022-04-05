@@ -1,7 +1,9 @@
 <h1>Olá, meu nome é Caio Elias!</h1>
 
-- 💻 Hoje trabalho com o básico de desenvolvimento web
-- 📝 Estou aprendendo desenvolvimento front-end
+<ul>
+<li>&#x1F4BB; Hoje trabalho com o básico de desenvolvimento web</li>
+<li>&#x1F4DD; Estou aprendendo desenvolvimento front-end</li>
+</ul>
 
 <div align="left">
   <a href="https://github.com/CaioCElias">
