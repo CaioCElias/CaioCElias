@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-elias-002952236/)
 
-Meu nome é Caio e sou estudante de Ciência da Computação.
+Sou estudante de Ciência da Computação :)
 <br><br>
 Estou sempre procurando aprender além do que a faculdade ensina, e sempre que me deparo com uma tecnologia interessante, faço o possível para aprendê-la e aplicar da melhor forma possível nos meus projetos.
 <br>
@@ -68,4 +68,4 @@ Estou sempre procurando aprender além do que a faculdade ensina, e sempre que m
 - Hacking em aplicações web 🌐
 
 ## ✏️ Desenvolvimento em cada tecnologia:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCElias&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCElias&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=Linguagens+Mais+Usadas)
