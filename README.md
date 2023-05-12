@@ -16,12 +16,6 @@ Estou sempre procurando aprender além do que a faculdade ensina, e sempre que m
       </a>
       <br>VSCode
     </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/intellij.svg" width="48" height="48" alt="IntelliJ" />
-      </a>
-      <br>IntelliJ
-    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" width="48" height="48" alt="Python" />
@@ -33,12 +27,6 @@ Estou sempre procurando aprender além do que a faculdade ensina, e sempre que m
         <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/photoshop.png" width="42" height="42" alt="Photoshop" />
-      </a>
-      <br>Photoshop
     </td>
     <td align="center" width="96">
       <a href="#">
