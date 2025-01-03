@@ -49,9 +49,5 @@ Estou sempre procurando aprender além do que a faculdade ensina, e sempre que m
   </tr>
 </table>
 
-## 📚 O que estou aprendendo hoje?
-- Java ☕
-- C 🤖
-
 ## ✏️ Desenvolvimento em cada tecnologia:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCElias&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=Linguagens+Mais+Usadas)
